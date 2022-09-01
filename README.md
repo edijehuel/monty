@@ -1,2 +1,1 @@
-# monty
-C - Stacks, Queues - LIFO, FIFO
+This is my personal C programming project
